@@ -6,10 +6,10 @@ import javax.mail.Session;
 import java.util.Properties;
 
 public class SendMaiController {
-    private static String email="hoclaptrinh.mail@gmail.com";
-    private static String password = "dethiserver16";
+    private static String email="your_email@gmail.com";//cấu hình tên email
+    private static String password = "passwordOfYourEmail";//cấu hình password email
     private static String email_nguoiNhan = "";
-    private static String title = "DETHI OTP CODE";
+    private static String title = "DETHI OTP CODE";//title email gửi
     private static String OPTCode = "";
     public SendMaiController(String email_nguoiNhan,String OTP) {
         this.email_nguoiNhan = email_nguoiNhan;
