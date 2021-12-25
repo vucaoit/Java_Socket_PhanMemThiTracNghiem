@@ -1,4 +1,5 @@
 <h1>Multiple-choice-test-software</h1>
+<a href="https://drive.google.com/drive/folders/10He30El3JzJFnjiZbPd6MlBA0BG-iU_p">link video giải thích code hoạt động</a>
 <div>Phần mềm thi trắc nghiệm mô hình client-server<br>
 công nghệ : Java/Swing-Maven project
   </div>
