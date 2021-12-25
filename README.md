@@ -1,6 +1,8 @@
 # Multiple-choice-test-software
 Phần mềm thi trắc nghiệm mô hình client-server
 công nghệ : Java/Swing-Maven project
+# yêu cầu chức năng đồ án
+<img src="/img/required.png"/>
 # Cài Đặt
 b1 : clone project<br>
 b2 : dùng sql server thêm database (script.sql)<br>
